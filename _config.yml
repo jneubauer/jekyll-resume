@@ -6,12 +6,12 @@ author:
       town: Faketown
       postcode: NG11 9BC
       country: United Kingdom
-  email: anybody@gmail.com
-  name: Some Developer
+  email: jon@neubauer.me
+  name: Jon Neubauer
   title: CSS Ninja and html Rockstar
-  twitter_username: nternetinspired
-  github_username:  nternetinspired
-  phone: +44 000 000 0000
+  twitter_username: 219jondn
+  github_username:  jneubauer
+  phone: 704 684 9776
   repository: https://github.com/nternetinspired/jekyll-resume
   website: https://github.com/nternetinspired/jekyll-resume
 description: > # this means to ignore newlines until "baseurl:"
